@@ -21,7 +21,7 @@ Education
 ======
 - September 2016 – April 2021<br>
   **Ph.D. of Computer and Information Science**<br>
-  Hosei Universit
+  Hosei University
 - September 2014 – June 2015<br>
   **Master of Computer and Information Science**<br>
   Hosei University (Double Degree Program) 
@@ -40,11 +40,11 @@ Publications
 - Kentaro Taki, Jianhua Ma, <u>Ao Guo</u>, Muxin Ma, Alex Qi. **"Multilevel Classification of Drowsiness States Using ECG With Optimized Convolutional Neural Network,"** in Proceedings of the 16th IEEE Cyber, Physical and Social Computing (CPSCom), 2023 
 - Sanae Yamashita, Koji Inoue, <u>Ao Guo</u>, Shota Mochizuki, Tatsuya Kawahara, Ryuichiro Higashinaka. **"RealPersonaChat: A Realistic Persona Chat Corpus with Interlocutors’ Own Personalities,"** in Proceedings of the 37th Pacific Asia Conference on Language, Information and Computation, 2023 [[Paper](https://aclanthology.org/2023.paclic-1.85/)]
 - <u>Ao Guo</u>, Walid Brahim, Jianhua Ma. **"Influences of Mental Stress Level on Individual Identification using Wearable Biosensors"** in Proceedings of the 8th IEEE Cyber Science and Technology Congress, 2023 [[Paper](https://ieeexplore.ieee.org/abstract/document/10361426/)]
-- Shinya Iizuka, Shota Mochizuki, Atsumoto Ohashi, Sanae Yamashita, <u>Ao Guo</u> and Ryuichiro Higashinaka. **"Clarifying the Dialogue-Level Performance of GPT-3.5 and GPT-4 in Task-Oriented and Non-Task-Oriented Dialogue Systems,"** In AAAI Fall Symposium on Artificial Intelligence for Human-Robot Interaction (AI-HRI), 2023 [[Paper](https://ai-hri.github.io/2023/papers/FSS-23_paper_632_cr.pdf)]
-- <u>Ao Guo</u>, Atsumoto Ohashi, Yuya Chiba, Yuiko Tsunomori, Ryu Hirai and Ryuichiro Higashinaka. **"Personality-aware Natural Language Generation for Task-oriented Dialogue using Reinforcement Learning,"** The 32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), 2023 [[Paper](https://ieeexplore.ieee.org/abstract/document/10309654)]
+- Shinya Iizuka, Shota Mochizuki, Atsumoto Ohashi, Sanae Yamashita, <u>Ao Guo</u>, Ryuichiro Higashinaka. **"Clarifying the Dialogue-Level Performance of GPT-3.5 and GPT-4 in Task-Oriented and Non-Task-Oriented Dialogue Systems,"** In AAAI Fall Symposium on Artificial Intelligence for Human-Robot Interaction (AI-HRI), 2023 [[Paper](https://ai-hri.github.io/2023/papers/FSS-23_paper_632_cr.pdf)]
+- <u>Ao Guo</u>, Atsumoto Ohashi, Yuya Chiba, Yuiko Tsunomori, Ryu Hirai, Ryuichiro Higashinaka. **"Personality-aware Natural Language Generation for Task-oriented Dialogue using Reinforcement Learning,"** The 32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), 2023 [[Paper](https://ieeexplore.ieee.org/abstract/document/10309654)]
 - Ryu Hirai, <u>Ao Guo</u>, Ryuichiro Higashinaka. **"Applying Item Response Theory to Task-oriented Dialogue Systems for Accurately Determining User's Task Success Ability,"** in Proceedings of the 24th Meeting of the Special Interest Group on Discourse and Dialogue, 2023 [[Paper](https://aclanthology.org/2023.sigdial-1.39/)]
 - 平井龍, 大橋厚元, <u>郭傲</u>, 東中竜一郎. **"タスク指向型対話システムにおけるチュートリアルを用いた発話理解の改善,"** 人工知能学会全国大会論文集, 2022 [[Paper](https://www.jstage.jst.go.jp/article/pjsai/JSAI2022/0/JSAI2022_2F4GS903/_article/-char/ja/)]
-- <u>Ao Guo</u>, Atsumoto Ohashi, Ryu Hirai, Yuya Chiba, Yuiko Tsunomori and Ryuichiro Higashinaka. **"Influence of user personality on dialogue task performance: A case study using a rule-based dialogue system,"** The 3rd Workshop on Natural Language Processing for Conversational AI (NLP4ConvAI), 2021 [[Paper](https://aclanthology.org/2021.nlp4convai-1.25/)]
+- <u>Ao Guo</u>, Atsumoto Ohashi, Ryu Hirai, Yuya Chiba, Yuiko Tsunomori, Ryuichiro Higashinaka. **"Influence of user personality on dialogue task performance: A case study using a rule-based dialogue system,"** The 3rd Workshop on Natural Language Processing for Conversational AI (NLP4ConvAI), 2021 [[Paper](https://aclanthology.org/2021.nlp4convai-1.25/)]
 - Jiaoman Du, Jiandong Zhou, Xiang Li, Lei Li, <u>Ao Guo</u>. **"Integrated self-driving travel scheme planning,"** International Journal of Production Economics, 2021 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925527320303133)]
 - Hongyu Jiang, <u>Ao Guo</u>, Jianhua Ma. **"Genre-based emoji usage analysis and prediction in video comments,"** in Proceedings of 6th IEEE Cyber Science and Technology Congress, 2020 [[Paper](https://ieeexplore.ieee.org/abstract/document/9251135)]
 - <u>Ao Guo</u>, Hongyu Jiang, Jianhua Ma. **"Multi-scenario fusion for more accurate classifications of personal characteristics,"** in Proceedings of 6th IEEE Cyber Science and Technology Congress, 2020 [[Paper](https://ieeexplore.ieee.org/abstract/document/9251160)]
