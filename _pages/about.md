@@ -97,5 +97,5 @@ Scientific Activities
 - Journal Reviewer<br>
   Journal of Human-centric Computing and Information Sciences; Journal of IEEE Access
 
-Teaching Experience
+Teaching Experiences
 ======
