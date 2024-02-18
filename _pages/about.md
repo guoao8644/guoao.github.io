@@ -90,11 +90,11 @@ Research Projects
 
 Scientific Activities
 ======
-- TC Secretary
+- TC Secretary<br>
   IEEE Technical Committee on Hyper-Intelligence
-- Program Committee of Conferences
+- Program Committee of Conferences<br>
   IEEE CyberSciTech 2017-2023; IEEE CPSCOM 2019; IEEE VTC 2018; Cyber 2019
-- Journal Reviewer
+- Journal Reviewer<br>
   Journal of Human-centric Computing and Information Sciences; Journal of IEEE Access
 
 Teaching Experience
