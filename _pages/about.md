@@ -78,13 +78,10 @@ Honors and Awards
 - Outstanding PhD Dissertation Award, IEEE Technical Committee on Hyper-Intelligence, 2022.
 - Best Student Paper Award, 5th IEEE International Conference on Cyber Science and Technology, 2020.
 - Best Paper Award, 9th IEEE International Conference on Cyber Physical and Social Computing, 2016.
-- Support Program for Researchers Traveling Abroad by International Information Science Foundation, 2017.
-- Japan Student Services Organization (JASSO), 2017, 2018, 2019.
+- Support Program for Researchers Traveling Abroad by International Information Science Foundation (IISF), 2017.
 
 Research Projects
 ======
-- 2018 – 2020<br>
-  Wear-I: A Multi-Wearable Organic System for Smarter Individual Services, Japan Society for the Promotion of Science Grants-in-Aid for Scientific Research, No. 18K11408.
 - 2015 – 2018<br>
   Research and Development of a Cyber-I Open Service Platform, Japan Society for the Promotion of Science Grants-in-Aid for Scientific Research, No. 26330350.
 
