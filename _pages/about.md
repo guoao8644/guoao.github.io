@@ -28,9 +28,9 @@ Education
 - September 2013 – April 2016<br>
   **Master of Software Engineering**<br>
   Huazhong University of Science and Technology
-- September 2009 – June 2013<br>
+<!-- - September 2009 – June 2013<br>
   **Bachelor of Automation**<br>
-  Wuhan University at East Lake Branch
+   University at East Lake Branch -->
 
 Publications
 ======
