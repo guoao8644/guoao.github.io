@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm' currently a postdoctoral researcher at Nagoya University, Japan. I'm working with [the Dialogue System Research Group](https://www.ds.is.i.nagoya-u.ac.jp/). My research interests lie in Personality Character Modeling, Personalized Generative AI, and Task-oriented Dialogue Systems.
+I'm' currently a postdoctoral researcher at Nagoya University, Japan. I'm working with [the Dialogue System Research Group](https://www.ds.is.i.nagoya-u.ac.jp/). My research interests lie in Persona Character Modeling, Personalized Generative AI, and Task-oriented Dialogue System.
 
 Research Experience
 ======
